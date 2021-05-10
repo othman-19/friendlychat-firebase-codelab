@@ -3,7 +3,10 @@
 ## 1. Overview
 In this codelab, I will use Firebase to easily create web applications by implementing and deploying a chat client using Firebase products and services.
 
-For more informations, go to the [Codelab page](https://firebase.google.com/codelabs/firebase-web#0).
+> For more informations, go to the [Codelab page](https://firebase.google.com/codelabs/firebase-web#0).
+
+Deployed app with Firebase: [Live Demo](https://friendlychat-75d3c.web.app/).
+
 
 ![screenshot](./screenshot.png)
 
